@@ -1,0 +1,1 @@
+window.TRUCK_WALA_BHOJPURI = [];
