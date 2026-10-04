@@ -5,7 +5,7 @@ let isPlaying = false;
 let loopEnabled = false;
 let loadingPlaylist = false;
 
-const fallbackPoster = "https://files.catbox.moe/gsyvnm.png";
+const fallbackPoster = "https://files.catbox.moe/7i1pcy.jpg";
 
 document.addEventListener("DOMContentLoaded", async () => {
   bindEvents();
