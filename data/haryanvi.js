@@ -1,1 +1,0 @@
-window.TRUCK_WALA_HARYANVI = [];

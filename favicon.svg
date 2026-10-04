@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="12" fill="#101010"/>
-<path d="M9 36h31l6-13h8l7 13v12H9z" fill="#d89c27"/>
-<rect x="14" y="40" width="10" height="7" rx="2" fill="#181614"/>
-<rect x="43" y="40" width="10" height="7" rx="2" fill="#181614"/>
-<path d="M42 26h11l3 7H39z" fill="#201e1a"/>
-<text x="11" y="18" font-family="Arial,sans-serif" font-size="8" font-weight="700" fill="#e7d7b2">TW</text>
-</svg>
