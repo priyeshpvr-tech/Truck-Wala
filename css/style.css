@@ -4,7 +4,7 @@
 :root{font-family:Outfit,system-ui,sans-serif;color:#fff;background:#1a1a1a;--glass:rgba(30,30,30,.42);--line:rgba(255,255,255,.12);--muted:rgba(255,255,255,.68);--green:#4ade80}
 html,body{width:100%;height:100%;overflow:hidden;background:#1a1a1a}
 body{position:relative;isolation:isolate}
-body::before{content:"";position:fixed;inset:0;background-image:url("https://files.catbox.moe/gsyvnm.png");background-size:cover;background-position:center;background-repeat:no-repeat;filter:brightness(.82);z-index:-200}
+body::before{content:"";position:fixed;inset:0;background-image:url("https://files.catbox.moe/7i1pcy.jpg");background-size:cover;background-position:center;background-repeat:no-repeat;filter:brightness(.82);z-index:-200}
 body::after{content:"";position:fixed;inset:0;background:radial-gradient(circle at 50% 45%,transparent 25%,rgba(0,0,0,.28) 75%,rgba(0,0,0,.65));z-index:-150;pointer-events:none}
 #particles-canvas{position:fixed;inset:0;width:100%;height:100%;z-index:-100;pointer-events:none}
 button,input{font:inherit}button{cursor:pointer}
